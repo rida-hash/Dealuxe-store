@@ -1,4 +1,6 @@
-# Getting Started with Create React App
+# Dealuxe-Store
+
+An online E-commerce website built using ReactJS.
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
